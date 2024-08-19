@@ -1,0 +1,198 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+.lad{
+    
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 2px;
+    margin-left: 11px
+}
+
+.cup{
+
+    background-color: white;
+    border-radius: 10px;
+    height: 19px;
+}
+.sectio{
+    width: 10%;
+    height: 40px;
+    background-color: #1F1F1F;
+}
+
+.set {
+    background-color: #121212;
+    width: 137%;
+    margin-left: 11px;
+    border-radius: 10px;
+    height: 140px;
+    color: white;
+    margin-top: 8px;
+}
+
+.sec {
+    background-color: #121212;
+    margin-left: 11px;
+    border-radius: 10px;
+    height: 453px;
+    color: white;
+    width: 137%;
+    margin-top: -7px;
+}
+
+.san {
+    background-color: #000000;
+    margin-top: 10px;
+    display: flex;
+    margin-top: 0px;
+}
+
+
+
+.sack {
+    
+
+
+
+    width:  95%;
+    /* border-radius: 10px; */
+    background-color: #3f4041;
+    color: white;
+    /* margin-left: 10px; */
+    height: 70px;
+    margin-left: 6px;
+}
+
+.big {
+    background-color: #121212;
+    width: 80%;
+    height: auto;
+    border-radius: 5px;
+    color: white;
+    margin-left: 259px;
+    margin-top: 84px;
+}
+
+
+
+
+.position{
+    position: fixed;
+    height: 100%;
+    z-index: 1px;
+}
+
+.flex {
+    display: flex;
+}
+
+.cat {
+    background-color: #0F0F0F;
+    height: 75px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 22px;
+    position: fixed;
+
+   
+    width: 80%;
+    margin-top: -97px;
+
+}
+
+.btn {
+    width: 10%;
+    height: 53px;
+    background-color: white;
+    border-radius: 24px;
+    border: none;
+}
+
+.btn3 {
+    background-color: #000000;
+    color: white;
+    box-shadow: none;
+}
+
+
+.bg_icon {
+
+
+    border-radius: 133px;
+    height: 157px;
+    width: 145px;
+    margin-top: 6px;
+    margin-left: 31px;
+
+}
+
+.bg_icon2 {
+
+    height: 157px;
+    width: 145px;
+    margin-top: 6px;
+    margin-left: 31px;
+
+}
+
+.manx {
+    margin-top: 5px;
+    margin-left: 44px;
+}
+
+.gap {
+
+    gap: 80px;
+
+    font-size: 14px;
+    margin-left: 45px;
+}
+
+
+.logo {
+    height: 19px;
+    width: 19px;
+}
+
+.land {
+    border-radius: 20px;
+
+    height: 43px;
+
+color: white;
+    width: 48px;
+
+    background-color: #727272;
+}
+
+.ton {
+
+
+    margin-left: 14px;
+    margin-top: 11px;
+}
+.local{
+    display: flex;
+    gap: 10px;
+    margin-top: 76px;
+    margin-left: 60px;
+}
+.hed{ margin-left: 24px;}
+
+
+.curv{
+    height: 19px;
+    width: 19px;
+}
